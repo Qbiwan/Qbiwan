@@ -13,6 +13,6 @@
 **Some small contributions to OSS**:
 * Huggingface <img align="left" alt="huggingface" width="26px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f917.png" />: ![Update run_xnli.py to use Datasets](https://github.com/huggingface/transformers/pull/9829) , Improve documentation for ![Phobert](https://github.com/huggingface/transformers/pull/9427) , ![Bertweet](https://github.com/huggingface/transformers/pull/9379) , ![Herbert](https://github.com/huggingface/transformers/pull/9428)
 
-* Einsteinpy <img align="left" alt="Python" width="26px" src="https://avatars.githubusercontent.com/u/47172316?s=200&v=4" />: ![added dunder all for all modules](https://github.com/einsteinpy/einsteinpy/pull/547) , ![fix continuous integration error](https://github.com/einsteinpy/einsteinpy/pull/547#issuecomment-753781344) 
+* Einsteinpy <img align="left" alt="Python" width="26px" src="https://avatars.githubusercontent.com/u/47172316?s=200&v=4" />: ![added dunder all for all modules](https://github.com/einsteinpy/einsteinpy/pull/547) , ![fixed continuous integration error](https://github.com/einsteinpy/einsteinpy/pull/547#issuecomment-753781344) 
 
 * Pandas <img align="left" alt="huggingface" width="26px" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" />: Rewrite dict literal for ![tests](https://github.com/pandas-dev/pandas/pull/38207) , ![groupby](https://github.com/pandas-dev/pandas/pull/38205) , ![plotting](https://github.com/pandas-dev/pandas/pull/38188)
