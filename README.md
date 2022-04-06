@@ -16,3 +16,12 @@
 * Einsteinpy <img align="left" alt="Python" width="26px" src="https://avatars.githubusercontent.com/u/47172316?s=200&v=4" />: [added dunder all for all modules](https://github.com/einsteinpy/einsteinpy/pull/547) , [fixed continuous integration error](https://github.com/einsteinpy/einsteinpy/pull/547#issuecomment-753781344) 
 
 * Pandas <img align="left" alt="huggingface" width="26px" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" />: Rewrite dict literal for [tests](https://github.com/pandas-dev/pandas/pull/38207) , [groupby](https://github.com/pandas-dev/pandas/pull/38205) , [plotting](https://github.com/pandas-dev/pandas/pull/38188)
+
+<br> 
+
+**Forums**:
+* [Fastai forum](https://forums.fast.ai/u/wyquek/summary) 
+
+<br> 
+
+**Blog**:
