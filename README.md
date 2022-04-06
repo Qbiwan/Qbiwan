@@ -6,7 +6,7 @@
 <br>  
 
 **Certifications**:
-* **[Google Cloud Certified Professional Cloud Architect](https://www.credential.net/9802e360-3f3b-4686-a511-0b54b60c548c?_ga=2.15308403.435192838.1647837801-1965824620.1647837801)**
+* [Google Cloud Certified Professional Cloud Architect](https://www.credential.net/9802e360-3f3b-4686-a511-0b54b60c548c?_ga=2.15308403.435192838.1647837801-1965824620.1647837801)
 
 <br> 
 
