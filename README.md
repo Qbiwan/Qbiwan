@@ -20,7 +20,10 @@
 <br> 
 
 **Forums**:
-* [Fastai forum](https://forums.fast.ai/u/wyquek/summary) 
+
+
+
+* <img align="left" alt="huggingface" width="26px" src="https://avatars.githubusercontent.com/u/20547620?s=200&v=4" /> [Fast.ai](https://forums.fast.ai/u/wyquek/summary) forum
 
 <br> 
 
