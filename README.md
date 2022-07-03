@@ -1,5 +1,4 @@
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quekwy/)
 
 <br>   
 
@@ -19,16 +18,20 @@
 
 * Pandas <img align="left" alt="huggingface" width="26px" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" />: Rewrite dict literal for [tests](https://github.com/pandas-dev/pandas/pull/38207) , [groupby](https://github.com/pandas-dev/pandas/pull/38205) , [plotting](https://github.com/pandas-dev/pandas/pull/38188)
 
+* fastai <img align="left" alt="fastai" width="26px" src="https://avatars.githubusercontent.com/u/20547620?s=200&v=4" />: added documentations for [SaveModelCallback](https://github.com/fastai/fastai/pull/3713) and [other callbacks in callback/tracker.py](https://github.com/fastai/fastai/pull/3715)
+
 <br> 
 
 **Forums**:
 
-
-
-* <img align="left" alt="huggingface" width="26px" src="https://avatars.githubusercontent.com/u/20547620?s=200&v=4" /> [Fast.ai](https://forums.fast.ai/u/wyquek/summary) forum
+* <img align="left" alt="fastai" width="26px" src="https://avatars.githubusercontent.com/u/20547620?s=200&v=4" /> [Fast.ai](https://forums.fast.ai/u/wyquek/summary) forum
 
 <br> 
 
 
 **Blog**:
+* [Beginner's Guide to Mambaforge Installation](https://qbiwan.github.io/fastpages/mamba-installation)
 
+
+**Linkedin**:
+* [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quekwy/)
